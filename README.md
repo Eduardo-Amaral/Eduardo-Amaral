@@ -20,7 +20,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
    </a>
    <a href="https://angular.io/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="bootstrap" width="40" height="40"/>
    </a>
    <a href="https://www.mongodb.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
